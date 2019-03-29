@@ -1,7 +1,7 @@
 # Things I made in Year 8-9
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/crazytaxi.gif?raw=true" width="470">
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angrybirds02.gif?raw=true" width="470">
-Could only find the intermediate version of the project, not the final product.
+Could only find the intermediate version of the project, not the final product.\n
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angry%20Bird.png?raw=true" width="470">
 
 # Android Basics by Google
