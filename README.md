@@ -2,6 +2,7 @@
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/crazytaxi.gif?raw=true" width="470">
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angrybirds02.gif?raw=true" width="470">
 
+<img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angry%20Bird.png?raw=true" width="470">
 
 # Android Basics by Google
 Android Basics courses on Udacity
