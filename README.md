@@ -58,6 +58,6 @@ The RNN generates your own Simpsons TV scripts.
 ## [Train a Quadcopter How to Fly](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Train%20a%20Quadcopter%20How%20to%20Fly/Quadcopter_Project.ipynb)
 The reinforcement learning algorithm trains an agent to fly a quadcopter.
 ## [Science Fair Project](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Science%20Project/RGB_Sample_Code.ipynb)
-The ML network generates new images of faces.
+Using ML network and hyperspectral drone technology to automate the time-consuming process of collecting important ecological samples. 
 
 
