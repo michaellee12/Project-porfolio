@@ -1,11 +1,10 @@
-# Things I made in Year 8-9
+# Projects from Year 8-9
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/crazytaxi.gif?raw=true" width="470">
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angrybirds02.gif?raw=true" width="470">
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angry%20Bird.png?raw=true" width="470">
 Could only find the intermediate version of the project, not the final product.
 
-# Android Basics by Google
-Android Basics courses on Udacity
+# Android Basics Nanodegree on Udacity
 
 ## Project 1: [Build a Single Screen App](https://github.com/michaellee12/Project-porfolio/tree/master/Android%20Basics/Bateman%20Primary%20School)
 ### Design and implement a simple app that displays information about a small business.
@@ -46,8 +45,7 @@ The app implements a simple list of Perth - where I am from.
 
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/InventoryApp.gif" width="270">
 
-# Machine Learning 
-Projects from the Udacity Deep Learning course & beyond
+#  Udacity Deep Learning course & beyond
 ## [Bike Use Prediction](https://github.com/michaellee12/Project-porfolio/tree/master/Android%20Basics/Inventory%20App)
 The neural network predicts daily bike rental ridership.
 ## [Dog Classification](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Dog%20Classification/Dog%20Classification.ipynb)
