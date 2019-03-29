@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.whoami.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <LinearLayout
+                android:id="@+id/LayoutA1"
+                style="@style/layout"
+                android:alpha="1">
+
+                <TextView
+                    android:id="@+id/QNA1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="QUESTION 1" />
+
+                <TextView
+                    android:id="@+id/QA1"
+                    style="@style/basic1"
+                    android:text="what is he known for?"
+                    android:textSize="25sp" />
+
+                <ImageView
+                    android:id="@+id/ImgA1"
+                    style="@style/basic1"
+                    android:onClick="clickImg"
+                    android:src="@drawable/emma0" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:id="@+id/AA1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:alpha="0"
+                        android:orientation="vertical">
+
+                        <CheckBox
+                            android:id="@+id/AA1.1"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:text="" />
+
+                        <CheckBox
+                            android:id="@+id/AA1.2"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:text="" />
+
+                        <CheckBox
+                            android:id="@+id/AA1.3"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:text="" />
+
+                        <CheckBox
+                            android:id="@+id/AA1.4"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/AB1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:alpha="1"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:id="@+id/AB1.1"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:onClick="radio"
+                            android:text="" />
+
+                        <RadioButton
+                            android:id="@+id/AB1.2"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:onClick="radio"
+                            android:text="" />
+
+                        <RadioButton
+                            android:id="@+id/AB1.3"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:onClick="radio"
+                            android:text="" />
+
+                        <RadioButton
+                            android:id="@+id/AB1.4"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:onClick="radio"
+                            android:text="Liam Neeson sdfgs dfd dfg dfg dfg sdf " />
+                    </LinearLayout>
+
+                    <EditText
+                        android:id="@+id/E1"
+                        android:layout_width="180dp"
+                        android:layout_height="wrap_content"
+                        android:alpha="0"
+                        android:inputType="textCapWords|textAutoCorrect" />
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/LayoutA2"
+                style="@style/layout"
+                android:alpha="0">
+
+                <TextView
+                    android:id="@+id/QNA2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="QUESTION 2" />
+
+                <TextView
+                    android:id="@+id/QA2"
+                    style="@style/basic1"
+                    android:text="what is he known for?"
+                    android:textSize="25sp" />
+
+                <ImageView
+                    android:id="@+id/ImgA2"
+                    style="@style/basic1"
+                    android:onClick="clickImg"
+                    android:src="@drawable/emma1" />
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:id="@+id/AA2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:alpha="1"
+                        android:orientation="vertical">
+
+                        <CheckBox
+                            android:id="@+id/AA2.1"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:text="" />
+
+                        <CheckBox
+                            android:id="@+id/AA2.2"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:text="" />
+
+                        <CheckBox
+                            android:id="@+id/AA2.3"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:text="" />
+
+                        <CheckBox
+                            android:id="@+id/AA2.4"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/AB2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:alpha="0"
+                        android:orientation="vertical">
+
+                        <RadioButton
+                            android:id="@+id/AB2.1"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:onClick="radio"
+                            android:text="" />
+
+                        <RadioButton
+                            android:id="@+id/AB2.2"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:onClick="radio"
+                            android:text="" />
+
+                        <RadioButton
+                            android:id="@+id/AB2.3"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:onClick="radio"
+                            android:text="" />
+
+                        <RadioButton
+                            android:id="@+id/AB2.4"
+                            style="@style/basic2"
+                            android:layout_width="280dp"
+                            android:enabled="false"
+                            android:onClick="radio"
+                            android:text="" />
+                    </LinearLayout>
+
+                    <EditText
+                        android:id="@+id/E2"
+                        android:layout_width="180dp"
+                        android:layout_height="wrap_content"
+                        android:alpha="0"
+                        android:enabled="false"
+                        android:hint="Name"
+                        android:inputType="textCapWords|textAutoCorrect" />
+                </RelativeLayout>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:background="@color/next"
+                android:onClick="submit"
+                android:text="Sumbit"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

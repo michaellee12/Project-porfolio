@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Perth Tourist App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Fello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sight">Sight</string>
+    <string name="food">Food</string>
+    <string name="nature">Nature</string>
+    <string name="shop">Shop</string>
+
+    <string name="pinnacles_loc">Nambung National Park, Cervantes, Western Australia, 651</string>
+    <string name="pinnacles_summary">Formed over millions of years, thousands of tall limestone spires rise eerily out of the yellow desert sands of Nambung National Park, just outside the coastal town of Cervantes.</string>
+    <string name="pinnacles">Pinnacles</string>
+    <string name="pinnacles_number">+61 8 9652 7913</string>
+    <string name="cottesloe_beach_loc">Marine Parade, Cottesloe, Perth WA, 6011</string>
+    <string name="cottesloe_beach_summary"> It\'s one of the city\'s most popular spots for swimming, snorkelling, surfing and drinking in ocean sunsets over a glass of wine.</string>
+    <string name="cottesloe_beach">Cottesloe Beach</string>
+    <string name="cottesloe_beach_number">9285 5000</string>
+    <string name="lucky_bay_loc">Lucky Bay Road, Esperance, Perth WA, 6450</string>
+    <string name="lucky_bay_summary">Australia\'s whitest beach, Lucky Bay, is also one of Western Australia\'s most idyllic. The biggest jewel in a string of stunning beaches along the coast of Cape Le Grand National Park and Esperance.</string>
+    <string name="lucky_bay">Lucky Bay</string>
+    <string name="lucky_bay_number">+61 8 9083 2100</string>
+    <string name="rottnest_island_loc">Rottnest Island, Perth WA, 6161</string>
+    <string name="rottnest_island_summary">Famous for its laid back atmosphere and beautiful beaches, Rottnest Island lies just 18 kilometres offshore from Perth surrounded by the sparkling Indian Ocean.</string>
+    <string name="rottnest_island">Rottnest Island</string>
+    <string name="rottnest_island_number">+61 8 9372 9730</string>
+
+
+    <string name="matilda_bay_restaurant_loc">3 Hackett Dr, Perth WA 6009, Australia </string>
+    <string name="matilda_bay_restaurant_summary">Located on the edge of the beautiful Matilda Bay in Crawley, Perth, Matilda Bay Restaurant is treated to stunning views of the Perth skyline.</string>
+    <string name="matilda_bay_restaurant">Matilda Bay Restaurant</string>
+    <string name="matilda_bay_restaurant_number">+61 8 9423 5000</string>
+    <string name="silks_loc">8 Whiteman St, Perth WA 6100, Australia</string>
+    <string name="silks_summary">Thrill your taste buds as you escape to an extraordinary world of fresh, authentic flavour and culinary splendour that has become the hallmark of Silks’ award-winning Chinese cuisine.</string>
+    <string name="silks">Silks</string>
+    <string name="silks_number">+61 3 9292 6888</string>
+    <string name="the_heritage_brasserie_bar_boardroom_loc">131 St Georges Terrace, Perth WA 6000, Australia</string>
+    <string name="the_heritage_brasserie_bar_boardroom_summary">The Boardroom at The Heritage is a private dining room that can accommodate up to twenty four people.</string>
+    <string name="the_heritage_brasserie_bar_boardroom">The Heritage Brasserie Bar &amp; Boardroom</string>
+    <string name="the_heritage_brasserie_bar_boardroom_number">+61 8 9226 5596</string>
+    <string name="wildflower_loc">1 Cathedral Ave | COMO The Treasury, Perth WA 6000, Australia</string>
+    <string name="wildflower_summary">Wildflower occupies a Perth CBD rooftop space – an elegant, contemporary steel and glass box on COMO The Treasury hotel’s fourth floor looking out over the city.</string>
+    <string name="wildflower">Wildflower</string>
+    <string name="wildflower_number">+61 8 6168 7855</string>
+
+
+    <string name="e_shed_markets_loc">Peter Hughes Dr, Fremantle WA 6160</string>
+    <string name="e_shed_markets_summary">E Shed Markets is a weekend market located on Victoria Quay in the Fremantle Harbour in Western Australia.</string>
+    <string name="e_shed_markets">E Shed Markets</string>
+    <string name="e_shed_markets_number">0421 762 277</string>
+    <string name="cloisters_shopping_arcade_perth_loc">863 Hay St, Perth WA 6000</string>
+    <string name="cloisters_shopping_arcade_perth_summary">The Cloisters is located at 200 St Georges Terrace, opposite its intersection with Mill Street in Perth, Western Australia.</string>
+    <string name="cloisters_shopping_arcade_perth">Cloisters Shopping Arcade Perth</string>
+    <string name="cloisters_shopping_arcade_perth_number">08 6424 9822</string>
+    <string name="hay_street_mall_loc">622 Hay St, Perth WA 6000</string>
+    <string name="hay_street_mall_summary">The Hay Street pedestrian mall was the earliest conversion from street to mall in Perth.</string>
+    <string name="hay_street_mall">Hay Street Mall</string>
+    <string name="twilight_hawkers_market_loc">Forrest Place, Perth WA 6000, Australia</string>
+    <string name="twilight_hawkers_market_summary">The Twilight Hawkers Market is Perth\'s original &amp; biggest Street Food Market bringing the tastiest street food from around the globe to the heart of Perth.</string>
+    <string name="twilight_hawkers_market">Twilight Hawkers Market</string>
+    <string name="twilight_hawkers_market_number">08 9461 3368</string>
+
+
+    <string name="kings_park_loc">Perth WA 6005</string>
+    <string name="kings_park_summary">Kings Park is a 4.06-square-kilometre park located on the western edge of the central business district in Perth, Western Australia.</string>
+    <string name="kings_park">Kings Park</string>
+    <string name="kings_park_number">08 9480 3600</string>
+    <string name="perth_mint_loc">310 Hay St, East Perth WA 6004</string>
+    <string name="perth_mint_summary">The Perth Mint is Australia\'s official bullion mint and wholly owned by the Government of Western Australia.</string>
+    <string name="perth_mint">Perth Mint</string>
+    <string name="perth_mint_number">08 9421 7222</string>
+    <string name="perth_zoo_loc">20 Labouchere Rd, South Perth WA 6151</string>
+    <string name="perth_zoo_summary">It is home to 1258 animals of 164 species and includes an extensive botanical collection</string>
+    <string name="perth_zoo">Perth Zoo</string>
+    <string name="perth_zoo_number">08 9474 0444</string>
+    <string name="crown_perth_loc">Great Eastern Hwy, Burswood WA 6100</string>
+    <string name="crown_perth_summary"> Crown Perth is Perth’s premier integrated resort comprising one of Australia’s largest casinos, two hotels, a state of the art convention centre and award winning food and beverage outlets. </string>
+    <string name="crown_perth">Crown Perth</string>
+    <string name="crown_perth_number">1800 556 688</string>
+</resources>
