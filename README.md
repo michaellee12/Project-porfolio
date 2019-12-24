@@ -1,8 +1,16 @@
-# Projects from Year 8-9
-<img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/crazytaxi.gif?raw=true" width="470">
-<img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angrybirds02.gif?raw=true" width="470">
-<img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angry%20Bird.png?raw=true" width="470">
-Could only find the intermediate version of the project, not the final product.
+#  Udacity Deep Learning course & beyond
+## [Bike Use Prediction](https://github.com/michaellee12/Project-porfolio/tree/master/Android%20Basics/Inventory%20App)
+The neural network predicts daily bike rental ridership.
+## [Dog Classification](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Dog%20Classification/Dog%20Classification.ipynb)
+The neural network estimates the dog breed that is most resembling. 
+## [Face Generation](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Face%20Generation/dlnd_face_generation%20(2).ipynb)
+The generative adversarial network generates new images of faces.
+## [TV Script Generation](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/TV%20Script%20Generation/dlnd_tv_script_generation%20(2).ipynb)
+The RNN generates my own Simpsons TV scripts.
+## [Train a Quadcopter How to Fly](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Train%20a%20Quadcopter%20How%20to%20Fly/Quadcopter_Project.ipynb)
+The reinforcement learning algorithm trains an agent to fly a quadcopter.
+## [Science Fair Project](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Science%20Project/RGB_Sample_Code.ipynb)
+Using ML network and hyperspectral drone technology to automate the time-consuming process of collecting important ecological samples. 
 
 # Android Basics Nanodegree on Udacity
 
@@ -45,18 +53,8 @@ The app implements a simple list of Perth - where I am from.
 
 <img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/InventoryApp.gif" width="270">
 
-#  Udacity Deep Learning course & beyond
-## [Bike Use Prediction](https://github.com/michaellee12/Project-porfolio/tree/master/Android%20Basics/Inventory%20App)
-The neural network predicts daily bike rental ridership.
-## [Dog Classification](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Dog%20Classification/Dog%20Classification.ipynb)
-The neural network estimates the dog breed that is most resembling. 
-## [Face Generation](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Face%20Generation/dlnd_face_generation%20(2).ipynb)
-The generative adversarial network generates new images of faces.
-## [TV Script Generation](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/TV%20Script%20Generation/dlnd_tv_script_generation%20(2).ipynb)
-The RNN generates my own Simpsons TV scripts.
-## [Train a Quadcopter How to Fly](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Train%20a%20Quadcopter%20How%20to%20Fly/Quadcopter_Project.ipynb)
-The reinforcement learning algorithm trains an agent to fly a quadcopter.
-## [Science Fair Project](https://github.com/michaellee12/Project-porfolio/blob/master/Deep%20Learning/Science%20Project/RGB_Sample_Code.ipynb)
-Using ML network and hyperspectral drone technology to automate the time-consuming process of collecting important ecological samples. 
-
-
+# Fun Projects from High School
+<img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/crazytaxi.gif?raw=true" width="470">
+<img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angrybirds02.gif?raw=true" width="470">
+<img src="https://github.com/michaellee12/Project-porfolio/blob/master/Resources/Angry%20Bird.png?raw=true" width="470">
+Could only find the intermediate version of the project, not the final product.
