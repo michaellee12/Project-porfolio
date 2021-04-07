@@ -1,3 +1,5 @@
+My Linkedin Profile: https://www.linkedin.com/in/michael-lee-849870128/
+
 #  Udacity Deep Learning course & beyond
 ## [Bike Use Prediction](https://github.com/michaellee12/Project-porfolio/tree/master/Android%20Basics/Inventory%20App)
 The neural network predicts daily bike rental ridership.
